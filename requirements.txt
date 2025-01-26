@@ -1,3 +1,10 @@
 openai
 ipykernel
 load_dotenv
+numpy
+pandas
+langchain-community
+langchain
+chromadb
+tiktoken
+

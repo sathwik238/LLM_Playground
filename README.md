@@ -11,7 +11,15 @@
      - **LinkedIn Post Ideas**: Generate 5 LinkedIn post ideas based on highlighted text.
    - Seamless integration for non-technical users to utilize LLM capabilities within Google Workspace.
 
-2. **LLM Experimentation**:
+2. **Querying a CSV File Using OpenAI LLM**:
+   - Allows natural language queries on CSV data, retrieving meaningful insights.
+   - Supports:
+     - **CSV Data Parsing**: Reads and preprocesses CSV files for efficient querying.
+     - **Vectorization**: Converts data into embeddings for fast similarity searches.
+     - **Natural Language Queries**: Use OpenAI's GPT to answer questions like "What is the total revenue for 2023?" or "Who are the top customers in Q1?"
+   - Ideal for users needing quick and accurate answers from structured data.
+
+3. **LLM Experimentation**:
    - A sandbox environment for:
      - Testing and fine-tuning LLMs.
      - Experimenting with prompt engineering techniques.
@@ -20,6 +28,7 @@
 
 ## Use Cases
 - **Content Generation**: Quickly create essays, LinkedIn posts, and other content.
+- **Data Querying**: Extract insights from structured data like CSV files using natural language.
 - **LLM Exploration**: Test and optimize LLMs for specific tasks and datasets.
 - **Tool Development**: Build and integrate LLM-powered solutions into workflows.
 
